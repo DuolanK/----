@@ -20,7 +20,7 @@ function addHoverEffect(element) {
 
   
   images.forEach((image) => addHoverEffect(image));
-  addHoverEffect(wordGrid);
+  //addHoverEffect(wordGrid);
 
 
 
